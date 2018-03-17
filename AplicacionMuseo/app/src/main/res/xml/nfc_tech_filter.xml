@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+        <tech-list>
+            <tech>android.nfc.tech.NfcA</tech>
+            <tech>android.nfc.tech.Ndef</tech>
+        </tech-list>
+    </resources>
+
+    <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+        <tech-list>
+            <tech>android.nfc.tech.NfcB</tech>
+            <tech>android.nfc.tech.Ndef</tech>
+        </tech-list>
+    </resources>
+
+</PreferenceScreen>
