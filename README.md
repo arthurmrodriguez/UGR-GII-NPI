@@ -15,3 +15,10 @@ Otra vez valiéndonos de Android Studio y con compatibilidad desde SDK 23, se ha
 ### Giroscopio: permite cambiar con un movimiento de muñeca entre la información y las imagenes que nos muestran las etiquetas NFC.
 ### Pantalla táctil: dispondremos de un mapa interactivo que podremos consultar en todo momento, ampliando la imagen y desplazándonos por éste.
 
+## Autoría del proyecto
+
+Este proyecto ha sido desarrollado en conjunto con otros 3 compañeros del grado:
+
+### Carlos Manuel Sequí Sánchez : https://github.com/CarlosSequi
+### Juan Ramón Gómez Berzosa : https://github.com/jramongomez
+### Samuel Cardenete Rodríguez : https://github.com/sagmua
